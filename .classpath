@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="blockchain/src"/>
+	<classpathentry kind="src" path="java_tutorials/src"/>
+	<classpathentry kind="lib" path="java_tutorials/libs/bcprov-jdk15on-159.jar"/>
+	<classpathentry kind="lib" path="java_tutorials/libs/gson-2.8.2.jar"/>
+	<classpathentry kind="lib" path="openchain-master/libs/bcprov-jdk15on-159.jar"/>
+	<classpathentry kind="lib" path="openchain-master/libs/gson-2.8.2.jar"/>
+	<classpathentry kind="output" path="blockchain/bin"/>
+</classpath>
